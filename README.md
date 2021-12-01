@@ -35,3 +35,6 @@ Sno|Name|type
 3|Anil|raju garu
 4|Sai|madam lover
 
+:+1: :innocent:
+
+*uday gopi is :face_with_thermometer:
