@@ -39,4 +39,6 @@ Sno|Name|type
 
 *uday gopi is :face_with_thermometer:
 
-~~this is example for cross down~~
+~~this is example for cross down :+1:~~
+
+> text that is not a quote :+1:
