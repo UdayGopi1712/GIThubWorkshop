@@ -38,3 +38,5 @@ Sno|Name|type
 :+1: :innocent:
 
 *uday gopi is :face_with_thermometer:
+
+~~this is example for cross down~~
