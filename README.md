@@ -28,3 +28,10 @@
 
 ![aaryansiddhartha](https://i.ytimg.com/vi/PunQy28KJWI/maxresdefault.jpg)
 
+Sno|Name|type
+----|----|----
+1|Aaryan|manchodu
+2|Uday|muslim bhai
+3|Anil|raju garu
+4|Sai|madam lover
+
