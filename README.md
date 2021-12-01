@@ -42,3 +42,9 @@ Sno|Name|type
 ~~this is example for cross down :+1:~~
 
 > text that is not a quote :+1:
+
+```
+git staus
+git add
+git commit
+```
