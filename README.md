@@ -30,8 +30,8 @@
 
 Sno|Name|type
 ----|----|----
-1|Aaryan|manchodu
-2|Uday|muslim bhai
+1|Aaryan|pagal
+2|Uday|good boy # :smiley:
 3|Anil|raju garu
 4|Sai|madam lover
 
