@@ -31,7 +31,7 @@
 Sno|Name|type
 ----|----|----
 1|Aaryan|pagal
-2|Uday|good boy # :smiley:
+2|Uday|good boy :innocent:
 3|Anil|raju garu
 4|Sai|madam lover
 
